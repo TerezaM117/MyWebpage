@@ -1,5 +1,5 @@
 name: "mywebpage"  
-author: "Tereza Martinovska"  
+author: "TEREZA MARTINOVSKA"  
 output_dir: "docs"  
 output:  
   html_document:  
@@ -7,5 +7,3 @@ output:
     theme: flatly  
 navbar:  
   title: "My First Webpage"
-  
-  

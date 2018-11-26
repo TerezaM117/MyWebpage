@@ -11,3 +11,11 @@ navbar:
     - text: "Home"
       icon: fa-home  # handy way to use FontAwesome icons in nav!
       href: index.html  # don't link to the .Rmd file
+    - text: "Research Training & Experience"
+      href: Res_experience.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Get in touch"
+      href: Contact_details.html
+    - text: "CV"
+      href: CV.pdf

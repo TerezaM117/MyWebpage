@@ -7,3 +7,10 @@ output:
     theme: flatly  
 navbar:  
   title: "Tereza Martinovska"
+  left:  # you can also use 'right'
+    - text: "Home"
+      icon: fa-home  # handy way to use FontAwesome icons in nav!
+      href: index.html  # don't link to the .Rmd file
+    - text: "About"
+      icon: fa-newspaper-o
+      href: about.html

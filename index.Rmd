@@ -1,16 +1,20 @@
 ---
-title: "My First Website"
+title: "About"
 ---
 ##Bio
-I graduated as MA Psychology in 2018 from the University of Glasgow where I continue to study as a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-
-
-##Research Interests
+I graduated with MA (Hons) in Psychology in 2018 from the University of Glasgow. I continue my studies in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) as a postgraduate student.
 
 ##Current work
-I work with [Dr Heather Cleland Woods](http://supervisor/website)
-bla
+I work with [Dr Heather Cleland Woods](https://www.gla.ac.uk/schools/psychology/staff/heatherwoods/)
+with whom we are currently investigating the interplay of sleep and social media in people with various sporting backgrounds as part of my MSc research project. 
+
+##Research Interests
+My main research focus is on sleep.  Alongside my academic efforts, I am part of a team developing an algorithm for prediction of bipolar relapses based on actigraphic data.   
+Besides sleep, I am interested in other factors affecting human well-being, namely the lived environment and physical activity. I am passionate about transforming research findings in these areas into effective interventions.  
+
+
+
+
 
 [Res Exp](Res_experience.html) 
 haha

@@ -1,9 +1,23 @@
 ---
 title: "Research Training & Experience"
 ---
-MA
-TEC
-NUDZ
-MSc
-=======
+### Student Researcher (present)
+Project: Sleep and Social Media Use across sporting levels
+Supervisor: [Dr Heather Cleland Woods](https://www.gla.ac.uk/schools/psychology/staff/heatherwoods/)
+
+### Adjunct Researcher (2017 – present)
+Project: BIPO 400
+Supervisor: [MuDr. Filip Španiel](https://www.researchgate.net/profile/Filip_Spaniel)
+RP5 Sleep Medicine and Chronobiology
+National Institute of Mental Health (NIMH), Czech Republic
+
+### Clinical Studies Coordinator (2017)
+[Mindpax](https://mindpax.me/en/), Czech Republic
+
+### Summer Research Internship (2016)
+Project: The role of chronotype and sleep hygiene in the treatment of obesity 
+Supervisor: [Ing. Mgr. Eva Fárková](http://www.nudz.cz/en/employee/?id=521)
+RP5 Sleep Medicine and Chronobiology & RP7 Diagnostics and Treatment of Mental Disorders 
+National Institute of Mental Health (NIMH), Czech Republic
+
 

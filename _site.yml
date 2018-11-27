@@ -17,10 +17,12 @@ navbar:
     - text: "Get in touch"
       href: Contact_details.html
     - text: "CV"
-      href: CV.pdf
+      href: Academic_CV.pdf
   right:
     - text: "Follow me on:"
     - icon: fa-twitter
       href: "https://twitter.com/Vivalamyself"
     - icon: fa-wordpress
       href: "https://vivalamyself.wordpress.com"
+      
+# check out https://academicpages.github.io/ 

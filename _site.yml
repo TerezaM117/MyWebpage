@@ -4,12 +4,11 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: cosmo
 navbar:  
   title: "Tereza Martinovska"
   left:  # you can also use 'right'
     - text: "Home"
-      icon: fa-home  # handy way to use FontAwesome icons in nav!
       href: index.html  # don't link to the .Rmd file
     - text: "Research Training & Experience"
       href: Res_experience.html
@@ -19,3 +18,9 @@ navbar:
       href: Contact_details.html
     - text: "CV"
       href: CV.pdf
+  right:
+    - text: "Follow me on:"
+    - icon: fa-twitter
+      href: "https://twitter.com/Vivalamyself"
+    - icon: fa-wordpress
+      href: "https://vivalamyself.wordpress.com"

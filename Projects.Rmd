@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 ---
-[Community Gardening Insights](UG_pres.pdf)
+## Community Gardening Insights
+Have a look at the [presentation](UG_pres.pdf) and poster created for the project. 
 
-The Everyday City and Beyond 
+## The Everyday City and Beyond 

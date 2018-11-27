@@ -7,11 +7,10 @@ output:
     theme: cosmo
 navbar:  
   title: "Tereza Martinovska"
+  href: index.html
   left:  # you can also use 'right'
-    - text: "Home"
-      href: index.html  # don't link to the .Rmd file
-    - text: "Research Training & Experience"
-      href: Res_experience.html
+    - text: "Research Training & Experience" 
+      href: Res_experience.html # don't link to the .Rmd file
     - text: "Projects"
       href: Projects.html
     - text: "Get in touch"
